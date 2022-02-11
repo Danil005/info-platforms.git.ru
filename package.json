@@ -31,7 +31,7 @@
         "jquery-sparkline": "2.4.0",
         "line-awesome": "icons8/line-awesome",
         "messenger": "git+https://github.com/HubSpot/messenger.git#v1.4.2",
-        "node-sass": "^4.9.0",
+        "node-sass": "^7.0.0",
         "nvd3": "1.8.6",
         "sass-loader": "^7.0.1",
         "v-calendar": "^0.9.7",
